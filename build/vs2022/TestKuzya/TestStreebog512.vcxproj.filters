@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sssha\source\repos\Kuzya\TestKuzya\Src\TestStreebog512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sssha\source\repos\Kuzya\TestKuzya\Include\Kuzya.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sssha\source\repos\Kuzya\TestKuzya\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{20C2F1C3-79C7-31F3-819F-A522AE46357E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{021C8F12-D75D-33B0-AAF3-D5BD3D4E9DA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

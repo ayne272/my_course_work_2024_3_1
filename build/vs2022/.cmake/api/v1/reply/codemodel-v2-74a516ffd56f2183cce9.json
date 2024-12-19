@@ -1,0 +1,476 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "Kuzya",
+					"jsonFile" : "directory-Kuzya-Debug-c1aa1577fa05fc0c88c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Kuzya",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TestKuzya",
+					"jsonFile" : "directory-TestKuzya-Debug-ad2a2a3c5872a28c1867.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TestKuzya",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Kuzya",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-1d758728b48c81e46741.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Kuzya::@9dbcbc21eef6aded1968",
+					"jsonFile" : "target-Kuzya-Debug-45cdeee6639b67c8ec4f.json",
+					"name" : "Kuzya",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog256::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog256-Debug-b1ee4b12966519b83b62.json",
+					"name" : "TestStreebog256",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog512::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog512-Debug-c015da6bcfe9d4bdfb99.json",
+					"name" : "TestStreebog512",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-9f9bef86cfa1ab3d26f7.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "Kuzya",
+					"jsonFile" : "directory-Kuzya-Release-c1aa1577fa05fc0c88c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Kuzya",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TestKuzya",
+					"jsonFile" : "directory-TestKuzya-Release-ad2a2a3c5872a28c1867.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TestKuzya",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Kuzya",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-1d758728b48c81e46741.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Kuzya::@9dbcbc21eef6aded1968",
+					"jsonFile" : "target-Kuzya-Release-ee3d92627aeb9e750010.json",
+					"name" : "Kuzya",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog256::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog256-Release-da75b51c7ce01b89becb.json",
+					"name" : "TestStreebog256",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog512::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog512-Release-083e5c4d886f11c71b8a.json",
+					"name" : "TestStreebog512",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-9f9bef86cfa1ab3d26f7.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "Kuzya",
+					"jsonFile" : "directory-Kuzya-MinSizeRel-c1aa1577fa05fc0c88c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Kuzya",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TestKuzya",
+					"jsonFile" : "directory-TestKuzya-MinSizeRel-ad2a2a3c5872a28c1867.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TestKuzya",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Kuzya",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-1d758728b48c81e46741.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Kuzya::@9dbcbc21eef6aded1968",
+					"jsonFile" : "target-Kuzya-MinSizeRel-75d53774c86903cfc827.json",
+					"name" : "Kuzya",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog256::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog256-MinSizeRel-19448205802f685ab8e3.json",
+					"name" : "TestStreebog256",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog512::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog512-MinSizeRel-7b0b99b347ae2c219d8f.json",
+					"name" : "TestStreebog512",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-9f9bef86cfa1ab3d26f7.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "Kuzya",
+					"jsonFile" : "directory-Kuzya-RelWithDebInfo-c1aa1577fa05fc0c88c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Kuzya",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TestKuzya",
+					"jsonFile" : "directory-TestKuzya-RelWithDebInfo-ad2a2a3c5872a28c1867.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TestKuzya",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Kuzya",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-1d758728b48c81e46741.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Kuzya::@9dbcbc21eef6aded1968",
+					"jsonFile" : "target-Kuzya-RelWithDebInfo-cb03c096235682529ea4.json",
+					"name" : "Kuzya",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog256::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog256-RelWithDebInfo-f90bb1398aca8793e74c.json",
+					"name" : "TestStreebog256",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TestStreebog512::@e9839db28f69d96df252",
+					"jsonFile" : "target-TestStreebog512-RelWithDebInfo-2ec42031bc57f11ccc2b.json",
+					"name" : "TestStreebog512",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-9f9bef86cfa1ab3d26f7.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sssha/source/repos/Kuzya/build/vs2022",
+		"source" : "C:/Users/sssha/source/repos/Kuzya"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

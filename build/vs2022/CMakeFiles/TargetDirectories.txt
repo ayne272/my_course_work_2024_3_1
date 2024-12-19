@@ -1,0 +1,8 @@
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/CMakeFiles/RUN_TESTS.dir
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/CMakeFiles/ALL_BUILD.dir
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/CMakeFiles/ZERO_CHECK.dir
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/Kuzya/CMakeFiles/Kuzya.dir
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/Kuzya/CMakeFiles/RUN_TESTS.dir
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/TestKuzya/CMakeFiles/TestStreebog256.dir
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/TestKuzya/CMakeFiles/TestStreebog512.dir
+C:/Users/sssha/source/repos/Kuzya/build/vs2022/TestKuzya/CMakeFiles/RUN_TESTS.dir
